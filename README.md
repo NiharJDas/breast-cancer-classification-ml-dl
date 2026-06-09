@@ -1,26 +1,29 @@
-# Project
-# Breast Cancer Classification using Machine Learning and Deep Learning
+# Breast Cancer Classification using Machine Learning
 
-This project builds predictive models for breast cancer classification using both structured clinical data and mammography images.
+This project investigates breast cancer classification using traditional machine learning algorithms.
 
-## Datasets Used:
-- Wisconsin Breast Cancer Dataset (WBCD)
-- MIAS Mammography Dataset
+## Dataset
+Wisconsin Breast Cancer Dataset (WBCD)
 
-# Part 1
-In part 1 clinical data Wisconsin Breast Cancer Dataset (WBCD) has been used for classification using different machine learning algorithms.
-
-## Techniques:
+## Algorithms Used
 - Support Vector Machine
 - Random Forest
 - Logistic Regression
+- KNN
+- Decision Tree
 
-## Result:
-Achieved 97% accuracy using SVM.
+## Techniques
+- Data Preprocessing
+- Feature Selection
+- Feature Scaling
+- Model Evaluation
 
-# Part 2
-In par 2 MIAS Mammography Dataset used for classification.
+## Results
+SVM achieved 97% classification accuracy.
 
-## Techniques:
-- CNN
-- Transfer Learning (ResNet50)
+## Tools
+Python
+Scikit-learn
+NumPy
+Pandas
+Matplotlib
